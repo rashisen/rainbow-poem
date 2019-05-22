@@ -7,6 +7,9 @@ Blue
 Green
 Unicorn
 Red
+Violet
+Indigo
+Turquioise
 Yellow
 These are the colors of the rainbow.
 Rashmi a beautiful fairy.        
