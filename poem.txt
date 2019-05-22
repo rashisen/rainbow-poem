@@ -5,6 +5,7 @@ Pink
 Orange
 Blue
 Green
+Recycle
 Unicorn
 Indigo
 These are the colors of the rainbow.
